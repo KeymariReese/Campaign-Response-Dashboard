@@ -53,7 +53,7 @@ Review Page 1 for campaign performance context, then Page 3 for value vs risk in
 
 Tools & Skills:
 
-Microsoft Excel
+Microsoft Excel, 
 MySQL Workbench 8, 
 Power BI, 
 DAX (measures for response rate, spend, segmentation, KPIs), 
