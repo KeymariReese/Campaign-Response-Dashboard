@@ -18,11 +18,11 @@ Dataset Summary
 Time period: 2012–2014
 
 Key data includes:
-Customer demographics
-Purchase behavior by product category
-Channel usage (web, store, catalog)
-Campaign acceptance history
-Complaints and recency metrics
+Customer demographics, 
+Purchase behavior by product category, 
+Channel usage (web, store, catalog, 
+Campaign acceptance history, 
+Complaints and recency metrics, 
 
 Dashboard Structure
 Page 1 — Campaign Performance
@@ -54,11 +54,11 @@ Review Page 1 for campaign performance context, then Page 3 for value vs risk in
 Tools & Skills:
 
 Microsoft Excel
-MySQL Workbench 8
-Power BI
-DAX (measures for response rate, spend, segmentation, KPIs)
-Data modeling
-Business-focused analytical storytelling
+MySQL Workbench 8, 
+Power BI, 
+DAX (measures for response rate, spend, segmentation, KPIs), 
+Data modeling, 
+Business-focused analytical storytelling, 
 
 Notes
 
